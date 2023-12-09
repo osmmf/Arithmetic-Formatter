@@ -1,4 +1,3 @@
-# Arithmetic-Formatter
 # FreeCodeCamp Arithmetic Arranger Challenge
 
 Welcome to the FreeCodeCamp Arithmetic Arranger Challenge! This project is part of the FreeCodeCamp curriculum and focuses on developing a Python program to arrange and format arithmetic problems.
