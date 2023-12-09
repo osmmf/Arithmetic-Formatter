@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fcc-arithmetic-formatter"
+version = "0.1.0"
+description = "A Python program for organizing and visually formatting arithmetic problems, allowing users to input and arrange mathematical expressions vertically. The project includes a main script for user interaction and testing, a dedicated module containing the arithmetic arranging function, and a test module to ensure the correct functionality of the core algorithm."
+authors = [" @osmmf <elmeftahioussama@gmail.com> "]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pytest = "^6.2.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
